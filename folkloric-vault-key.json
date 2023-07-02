@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "folkloric-vault-388901",
+  "private_key_id": "bb6d4ceed721f6559e185e5214d41aba265df6a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPVGiDV5J386Fl\n0vFvObfPdWIKx1o8c60GwEEZuOtY6rNO8P2glzIicwuNogPydq5hP9VLp9Afxd5l\nCAuTBK2cL2ylXG0OcAOYOPTBaFdXYrBCZ7EZNrYPZdA834asyOzZdl/O/nzrwxxv\n1ZKh38myQzD1qg7smXkeyECm4EqnzSXpyrRF7UjXrb8f+21eK9TFA9qEMTbdWjJV\nhqXqxqGz9SbefGmVpuEYlIl7NgXWpA6dj7MAja2ZzrL0WUJ+Vg/hVh3rFsJVsepD\nqFyFAotP3j/2X+5Ir7lAAfE3llJC85tSWyTMs+DPWJv9dCpBxK+kpETwKlIuETMA\nW/ulN7r7AgMBAAECggEAQP9uReG4slzxnFOE2YO7L4Fz7J9q9G8g0CbvXtLVJ4WH\nuwzed60ZNzYkzx3h3FqlycRA3gZEA6SfrgFv/kPo1yNKidLYQevaNXXeyLagpShD\n9lk/nseI2IK7ZF+Zm1Gi1xsvZ5dQ3zmj87NOw8nQld6SnVV5XyJaIvN9HjAoqt9X\ny2acNAnUCNBqPJ13hIy6T5Xr5NrMvMX86wZSQXlQjO6fo6iqp/XSg6luIHkAlfJL\nnvWPzi4jk+1Pz7gyPfEqBspqb0K7hbbxp9N2sSQwkRwaPhvy4f+onQE92f+rxvkY\n7ZD6pYHZKB1mM+hIHM4EjKg6xdGBlsTLLartL6owAQKBgQDBpOAvWVDDLS8TLTdV\ndYNZAeLR0FSHTmYPydCUD6eXpmG+uSuGWfCp2mhx9Cu+AJ+bKch7JquOS9uuPas6\nQAfQO4jN0wptN7Ivxu2+ESlziWSRB4YuAmrOe3snHxetFKmzS3rF5hedtQlnpb0J\nLNvJWnOpasx5poBhXN/iueLz+wKBgQC9e9nYsh+5ztdDcAvuRRk6z+AXSZ1GZ9u5\n7pGjzwgBhffoKRp2oD9BkQlqM/FB2ZNs5R/qbuJQWbmnOoEWCpgNIxxXhZH+WxnI\nJFetXcWlRTqrvn3RGy29qRWdaglPm0MVy2QOOG/CBIvcDtJiBROcq8s+/ewDC2d0\ny76SG/ylAQKBgQCR48TfB1xYX49K1FMO+ITnpwsa5ej5M7CjDnotQooSL9EOXvWS\nt+ogHaN4zuuxr0iQHu+jEKRJhY9Re7aoIRuB34iXAPunA0IkyqvM+aMQH5/7v/5w\nZXPQcql69OrihGHB6gjqVgrOz1jxlKWR5xEDZzkil4rL0AyCzfUDHOcGxwKBgFaT\nWB3ihQxorYJql4jumXB9um3pfKrGmWaC0ph957KKe5Lf9O9umHhkxGB6CymDOBDx\nP3vl3hHIbUMzP/fKL18RQ8nZhbMp/MWtlUHpLn0s/HmsN+BrAqM9tlqOMGLnFefH\nXpgAwU9stFp/izCuER/sfpjxe/yIIWUEEra/gtgBAoGAS7Tsz6QHRouewIhZ7aeD\niQ1SKhi8TVgRryUQoyR9GldZaEL9f8Sg7ZR799DprgzGtZVhRK5EifP5NeyACscr\nOfT3Bonppyt9UmoEWmcJxEijOkKluGCiqeTQqKPt7smzyJ+5nOKAjydi3e7mJqPH\n4D1nzkPp9f7sMVpr6CRLg/o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-with-sa@folkloric-vault-388901.iam.gserviceaccount.com",
+  "client_id": "112837062330785226954",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-with-sa%40folkloric-vault-388901.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
